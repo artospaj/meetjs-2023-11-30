@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@johanblumenberg/ts-mockito": "^1.0.40",
     "@types/async-retry": "^1.4.5",
     "@types/jest": "^29.5.1",
     "@types/node": "^18.16.3",
